@@ -66,4 +66,3 @@ The system generates:
 * Analytical graphs
 * CSV recommendation reports
 
-* Muhammad Ammar
